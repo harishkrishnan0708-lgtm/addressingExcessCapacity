@@ -22,3 +22,8 @@ possible courses of action:
 Set mandated output limit and penalize non-compliant manufacturers
 End non-market subsidies so it is harder to overproduce
 Tariffs and anti-dumping duties to curb overproducing foreign nations from selling overly cheap goods
+
+
+# sources
+https://fred.stlouisfed.org/series/CAPUTLG3344S
+
