@@ -10,7 +10,9 @@ HERE ARE THE INDUSTRIES TO WORRY ABOUT:
 FOR THIS ONE ONLY WORRY ABOUT SEMICONDUCTORS
 what factors led to the excess capacity? - not as important for now (10/09/2026)
 # RESEARCH QUESTION: 
-what is the best course of action nations could take to defend from excess capacity of the listed goods, which "steps" have the most positive impact.
+What U.S. trade policy responses to foreign excess capacity in semiconductors and other related electric components have best protected investment, production, and exports, and at what cost to U.S. chip buyers?
+# limitations: 
+evidence is case-based (small sample) and that the conclusions are suggestive about mechanisms, not precise estimates.
 # steps to take to find out more about this
 1. Find out what possible courses of action there are
 2. create a clean data set with possible variables being: country, year, what industry, what percentage of GDP the industry was, what the nation did to curb the excess, what the resulting percentage of GDP it was after actions had been taken. variables to potentially use as "before" and "after" comparison:
@@ -26,4 +28,8 @@ Tariffs and anti-dumping duties to curb overproducing foreign nations from selli
 
 # sources
 https://fred.stlouisfed.org/series/CAPUTLG3344S
+https://fred.stlouisfed.org/series/fedfunds
+https://fred.stlouisfed.org/series/IPG3344S
+https://fred.stlouisfed.org/series/CES3133440001
+
 
