@@ -1,4 +1,4 @@
-# addressingExcessCapacity
+# Semiconductor Trade Policy Analysis
 
 An analysis of the Joint Ministerial Statement on Addressing Structural Excess Capacity and Production, focused on how U.S. trade policy has responded to foreign excess capacity in semiconductors.
 
